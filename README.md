@@ -1,2 +1,2 @@
-# SistemTerdistribusi-
+# SistemTerdistribusi
 Latihan 
