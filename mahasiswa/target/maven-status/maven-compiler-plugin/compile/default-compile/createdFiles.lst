@@ -1,0 +1,5 @@
+com\kurnia\mahasiswa\MahasiswaApplication.class
+com\kurnia\mahasiswa\repository\MahasiswaRepository.class
+com\kurnia\mahasiswa\service\MahasiswaService.class
+com\kurnia\mahasiswa\controller\MahasiswaController.class
+com\kurnia\mahasiswa\entity\Mahasiswa.class
