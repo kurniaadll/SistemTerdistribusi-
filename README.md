@@ -1,2 +1,2 @@
 # SistemTerdistribusi
-Latihan 
+Kurnia Adilla 
